@@ -7,7 +7,7 @@ int main() {
     std::cout << "Enter first number: ";
     std::cin >> num1;
 
-    std::cout << "Enter second number: ";
+    std::cout << "Enter 2 number: ";
     std::cin >> num2;
 
     // Calculating sum
