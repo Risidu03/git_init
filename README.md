@@ -10,6 +10,6 @@ This is a simple C++ program that calculates the difference between two integers
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/Risidu03/git_init>
+   git clone https://github.com/Risidu03/git_init
 
 
