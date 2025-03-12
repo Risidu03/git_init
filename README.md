@@ -1,5 +1,3 @@
-
-
 # Difference Calculator
 
 This is a simple C++ program that calculates the difference between two integers input by the user.
@@ -12,6 +10,6 @@ This is a simple C++ program that calculates the difference between two integers
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/Risidu03/git_init>
 
 
